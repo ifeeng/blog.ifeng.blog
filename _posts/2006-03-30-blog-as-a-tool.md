@@ -1,6 +1,6 @@
 ---
 title: 其实都只是一个工具而已
-tags: blog, communication
+tags: blog communication
 ---
 
 今天看到高飞的一篇[《收费博客有前途吗？》][link]，觉得他说到点上去了。最近 blogsphere 里面都是这个话题说来到去的，“能收”与“收了的话没有人会看”等等各抒己见。

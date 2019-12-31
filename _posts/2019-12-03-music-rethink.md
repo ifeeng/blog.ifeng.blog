@@ -1,6 +1,6 @@
 ---
 title: 音乐生意的另一个角度
-tags: 音乐, 资本, Private-Equity
+tags: 音乐 资本 Private-Equity
 ---
 
 ![Music](/assets/images/posts/2019-12-music-biz.jpg)

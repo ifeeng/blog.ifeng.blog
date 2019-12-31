@@ -1,6 +1,6 @@
 ---
 title: 聪明的Flickr
-tags: flickr, marketing
+tags: flickr marketing
 ---
 
 ![初生牛犊 Skype Logo][flickr]
