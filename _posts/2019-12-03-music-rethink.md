@@ -3,8 +3,7 @@ title: 其实都只是一个工具而已
 tags: 音乐, 资本, Private-Equity
 ---
 
-
-![Music](/images/posts/music-biz.jpg)
+![Music](/assets/images/posts/2019-12-music-biz.jpg)
 
 Taylor Swift 最近热度又上去了。刚出道的时候是在 Nashville 被 [Big Machine Records][Big Machine Records] 给物色中的。刚出道的时候，谁都不知道自己会有多红。就连唱片公司，也不敢去想。但当 Taylor 红起来之后，才发现之前签的合约，太长了。红起来之后，发现亏大了。直到 2017 年才从能从 BMR 出来，和业内巨头 Universal Music Group 签约。
 
