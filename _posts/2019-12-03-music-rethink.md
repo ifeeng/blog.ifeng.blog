@@ -1,5 +1,5 @@
 ---
-title: 其实都只是一个工具而已
+title: 音乐生意的另一个角度
 tags: 音乐, 资本, Private-Equity
 ---
 
